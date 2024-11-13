@@ -1,0 +1,28 @@
+Here's a summary of what Eyejel has learned over the past two months:
+
+-HTTP/HTTPS, Domains, Hosting, and DNS
+	Eyejel learned the basics of HTTP and HTTPS. HTTP is a protocol for exchanging data on the web, and HTTPS is more secure because of SSL/TLS. Eyejel also learned about domains (a website's unique address) and hosting (where website 	files are stored). Finally, there's DNS, which translates domains into IPs for computers to understand.
+
+-How Browsers Work
+	A browser is an application for accessing websites. Eyejel learned how browsers receive requests, process data, and display HTML, CSS, and JavaScript from the server. This is important so that Eyejel understands how to optimize 	websites.
+
+-OOP and Non-OOP
+	Eyejel learned the concept of OOP (Object-Oriented Programming), which focuses on objects such as encapsulation and inheritance. In addition, there is non-OOP, which focuses more on logical flow and functions.
+
+-HTML and Semantic HTML
+	HTML is the language for structuring websites. Eyejel also learned about Semantic HTML, which uses elements with special meaning (e.g. <header>, <footer>), which helps browsers understand the content of the page.
+
+-SEO and HTML Templates
+	Eyejel learns the basics of SEO to make your website easy to find, such as using keywords and a neat structure. There are also HTML templates that can be used to make pages faster.
+
+-Custom HTML Elements
+	Eyejel learns to create custom HTML elements according to the needs of the website.
+	Layout and Framework
+	In layout, Eyejel learns CSS (such as grid and flexbox) and frameworks like Bootstrap to make it look responsive.
+
+-Architecture and Pre-processors
+	Eyejel learns basic web architecture and pre-processors like SASS/PostCSS to make CSS more practical.
+
+-JavaScript
+	Eyejel learned the basics of JavaScript: data types, variable declarations, DOM for HTML interactions, events, APIs, and AJAX to retrieve data from the server without reloading.
+	From this material, Eyejel has a better understanding of web components and how to create an attractive and functional website.
